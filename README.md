@@ -9,9 +9,7 @@ source: https://www.kaggle.com/gti-upm/leapgestrecog
 # Models provided for testing:
 
 ### Both Trained at ~99.5% testing accuracy, one with data augmentation, one without
-1. Without: https://github.com/roshank123/HandGestures/gesturesModel.h5
-
-2. With Data Augmentation: https://github.com/roshank123/HandGestures/gesturesModelAug.h5
-
+1. Without: https://github.com/roshank123/HandGestures/blob/master/gesturesModel.h5
+2. With Data Augmentation: https://github.com/roshank123/HandGestures/blob/master/gesturesModelAug.h5
 # Running Application
-type `python3 displayModel.py`
+Type `python3 displayModel.py` (assuming to be in directory of project)
