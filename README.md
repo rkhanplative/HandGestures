@@ -7,5 +7,9 @@ source: https://www.kaggle.com/gti-upm/leapgestrecog
 ![Hand Gesture Identification in Python3](https://github.com/roshank123/HandGestures/blob/master/Screen%20Shot%202020-05-20%20at%2012.45.45%20PM.png)
 
 # Models provided for testing, one with and one without Data Augmentation, both training at approximately (99.5% test accuracy):
-Without: https://github.com/roshank123/HandGestures/gesturesModel.h5
-With Data Augmentation: https://github.com/roshank123/HandGestures/gesturesModelAug.h5
+1. Without: https://github.com/roshank123/HandGestures/gesturesModel.h5
+
+2. With Data Augmentation: https://github.com/roshank123/HandGestures/gesturesModelAug.h5
+
+# Running Application
+type 'python3 displayModel.py'
