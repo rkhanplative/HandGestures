@@ -14,4 +14,4 @@ source: https://www.kaggle.com/gti-upm/leapgestrecog
 2. With Data Augmentation: https://github.com/roshank123/HandGestures/gesturesModelAug.h5
 
 # Running Application
-'python3 displayModel.py'
+type `python3 displayModel.py`
